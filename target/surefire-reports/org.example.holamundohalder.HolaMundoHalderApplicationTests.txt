@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.example.holamundohalder.HolaMundoHalderApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.615 s -- in org.example.holamundohalder.HolaMundoHalderApplicationTests
